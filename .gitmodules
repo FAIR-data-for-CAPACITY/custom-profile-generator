@@ -1,3 +1,0 @@
-[submodule "fhir-parser"]
-	path = fhir-parser
-	url = git@github.com:smart-on-fhir/fhir-parser.git
